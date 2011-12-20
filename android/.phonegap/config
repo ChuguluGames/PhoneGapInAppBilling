@@ -1,0 +1,6 @@
+VERSION=1.2.0
+PROJECT_PATH=/Users/davidbillamboz/Projects/PhoneGapInAppBilling/android
+PHONEGAP_PATH=assets/javascripts/libs/
+PACKAGE=com.phonegap.phonegapinappbilling
+ACTIVITY=PhoneGapInAppBilling
+TARGET=23
