@@ -1,4 +1,4 @@
-#xcode specific
+6#xcode specific
 build/*
 #ignore private workspace stuff added by Xcode4
 xcuserdata
