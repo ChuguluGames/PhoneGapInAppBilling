@@ -6,6 +6,8 @@ xcuserdata
 ios/www/*
 #ignore android assets
 android/assets/www/*
+# ignore android build
+android/bin/*
 
 ## generic files to ignore
 *~
